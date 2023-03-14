@@ -1,0 +1,15 @@
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\bin\Debug\net6.0\Veeam_Window_Monitoring.exe
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\bin\Debug\net6.0\Veeam_Window_Monitoring.deps.json
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\bin\Debug\net6.0\Veeam_Window_Monitoring.runtimeconfig.json
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\bin\Debug\net6.0\Veeam_Window_Monitoring.dll
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\bin\Debug\net6.0\Veeam_Window_Monitoring.pdb
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.csproj.AssemblyReference.cache
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.AssemblyInfoInputs.cache
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.AssemblyInfo.cs
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.dll
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\refint\Veeam_Window_Monitoring.dll
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.pdb
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\Veeam_Window_Monitoring.genruntimeconfig.cache
+C:\Users\navya\source\repos\Veeam_Window_Monitoring\obj\Debug\net6.0\ref\Veeam_Window_Monitoring.dll

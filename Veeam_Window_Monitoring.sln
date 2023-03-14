@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Veeam_Window_Monitoring", "Veeam_Window_Monitoring.csproj", "{94847EEC-1756-4687-B72A-6EA0A38C0902}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_ProcessMonitor", "..\Test_ProcessMonitor\Test_ProcessMonitor.csproj", "{A0276D2F-9C34-43EB-B1DA-B3319FB828D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94847EEC-1756-4687-B72A-6EA0A38C0902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94847EEC-1756-4687-B72A-6EA0A38C0902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94847EEC-1756-4687-B72A-6EA0A38C0902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94847EEC-1756-4687-B72A-6EA0A38C0902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0276D2F-9C34-43EB-B1DA-B3319FB828D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0276D2F-9C34-43EB-B1DA-B3319FB828D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0276D2F-9C34-43EB-B1DA-B3319FB828D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0276D2F-9C34-43EB-B1DA-B3319FB828D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C50B428-AA61-423F-A29C-BA543AF401A6}
+	EndGlobalSection
+EndGlobal
